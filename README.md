@@ -2,7 +2,7 @@
 
 This repository was created by Official BlockAudit Team.
 
-![Certificate_KOT](https://user-images.githubusercontent.com/81981737/147562354-3d1b6494-075c-44b7-bf62-755a45a41db2.jpg)
+![kolsofferingtoken](https://user-images.githubusercontent.com/121312707/235408896-fee106b1-40f8-457d-9f7a-32c133459ec3.png)
 
 /** *Submitted for verification at BscScan.com on 2021-05-03 */
 
